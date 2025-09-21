@@ -1,0 +1,6 @@
+{
+  "name": "Cronograma Interativo",
+  "description": "Um cronograma de postagens interativo com assistente virtual para equipes de marketing, agora potencializado pela OpenAI. O assistente gera ideias de conteúdo e tráfego para datas comemorativas brasileiras, personalizadas para o perfil da sua empresa.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
